@@ -13,3 +13,6 @@ plt.axhline(0, color='black', lw=0.5, ls='--')
 plt.axvline(0, color='black', lw=0.5, ls='--')
 
 plt.show()
+
+def add(a, b):
+    return a + b
